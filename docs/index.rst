@@ -28,18 +28,11 @@ Citing soundata
 
 If you are using the library for your work, please cite the version you used as indexed at Zenodo:
 
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4355859.svg
-   :target: https://doi.org/10.5281/zenodo.4355859
+Coming soon...
 
-If you refer to soundata's design principles, motivation etc., please cite the following
-`paper <https://magdalenafuentes.github.io/publications/2019_ISMIR_soundata.pdf>`_  [#]_:
+If you refer to soundata's design principles, motivation etc., please cite the following paper:
 
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3527750.svg
-   :target: https://doi.org/10.5281/zenodo.3527750
-
-.. [#] Rachel M. Bittner, Magdalena Fuentes, David Rubinstein, Andreas Jansson, Keunwoo Choi, and Thor Kell.
-    "soundata: Software for Reproducible Usage of Datasets."
-    In Proceedings of the 20th International Society for Music Information Retrieval (ISMIR) Conference, 2019.:
+Coming soon...
 
 When working with datasets, please cite the version of ``soundata`` that you are using (given by the ``DOI`` above)
 **AND** include the reference of the dataset, which can be found in the respective dataset loader using the ``cite()`` method.
