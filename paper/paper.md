@@ -28,6 +28,8 @@ authors:
     orcid: 
     affiliation: 1
 affiliations:
+ - name: equal contribution
+   index: *
  - name: MARL, CUSP, New York University
    index: 1
  - name: Adobe Research
