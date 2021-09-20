@@ -6,12 +6,12 @@ tags:
   - dataset
   - environmental-sound
 authors:
-  - name: Magdalena Fuentes
+  - name: Magdalena Fuentes*
     orcid: 0000-0003-4506-6639
-    affiliation: 1, *
-  - name: Justin Salamon
+    affiliation: 1
+  - name: Justin Salamon*
     orcid: 
-    affiliation: 2, *
+    affiliation: 2
   - name: Pablo Zinemanas
     orcid: 
     affiliation: 3
@@ -34,8 +34,6 @@ authors:
     orcid: 
     affiliation: 1
 affiliations:
- - name: equal contribution
-   index: *
  - name: MARL, New York University
    index: 1
  - name: Adobe Research
